@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+---
+layout: docs
+title: Spacing
+description: Bootstrap includes a wide range of shorthand responsive margin, padding, and gap utility classes to modify an element's appearance.
+group: utilities
+toc: true
+---
+
 <!--
 **azislamayuda/azislamayuda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
