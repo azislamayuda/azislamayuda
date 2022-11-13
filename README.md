@@ -1,8 +1,8 @@
 # Github izio
 
-Selamat datang diGithub izio. Disini adalah wadah untuk belajar dan menyimpan data-data source code yang diperlukan dalam pembuatan sebuah web atau aplikasi.
+Selamat datang di Github izio. Disini adalah wadah untuk belajar dan menyimpan data-data source code yang diperlukan dalam pembuatan sebuah web atau aplikasi.
 
-'azis lamayuda'
+`izio`
 
 <!--
 **azislamayuda/azislamayuda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
