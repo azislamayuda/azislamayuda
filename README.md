@@ -1,4 +1,4 @@
-# Github izio
+# Github izioziel
 
 Selamat datang di Github izio. Disini adalah wadah untuk belajar dan menyimpan data-data source code yang diperlukan dalam pembuatan sebuah web atau aplikasi.
 
